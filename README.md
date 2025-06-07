@@ -25,6 +25,27 @@
 -> 테스트 데이터 : 20% 약 3,947개
 -> 검증 데이터 비율 : 16% 약 3,157개
 
+데이터셋
+개수
+비율
+전체 데이터
+19,735
+100%
+학습(Train)
+15,788
+80%
+ ㄴ 실제 학습
+12,631
+64%
+ ㄴ 검증(Validation)
+3,157
+16%
+테스트(Test)
+3,947
+20%
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/7f72573d-975b-43ba-9986-68d43a32158f" />
+
+
 ### <img width="559" alt="image" src="https://github.com/user-attachments/assets/41d7731b-9ac2-4228-8bd1-964d9be23577" />
 
 <img width="568" alt="image" src="https://github.com/user-attachments/assets/6b2334e2-4483-4b99-9fd7-309876f81c60" />
@@ -35,7 +56,7 @@
 
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/478060ac-0a38-4289-ae33-4ebe654d9f9a" />
 
-<img width="898" alt="image" src="https://github.com/user-attachments/assets/36d25ff1-370a-422b-acdb-2a0ef8079eeb" />
+<img width="898" alt="image" src="https://github.com/user-attachments/assets/5afb2e30-7a01-4e1a-9f2c-5842bf59ec56" />
 
 
 
